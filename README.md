@@ -6,19 +6,19 @@ O escopo do projeto é um aplicativo móvel que possui como foco a **saúde indi
 
 ## As partes da primeira entrega foram divididas da seguinte forma:
 
-**Kevin Baltar**:
+- **Kevin Baltar**:
 Visão geral da solução proposta: Contextualização e motivação. Apresentar o cenário e segmento de mercado no qual o produto se insere, no que busca melhorar e/ou aperfeiçoar - apresentar de maneira clara qual o objetivo que o produto deve alcançar.
 
-**Thiago Aleixo**
+- **Thiago Aleixo**
 Ciclo de vida de Desenvolvimento: Apresentar e justificar um ciclo de vida de desenvolvimento, adaptando-o à solução proposta. Validar a interação e a experiência de uso a ser alcançada, descrevendo em linhas gerais o método a ser utilizado.
 
-**Carla Rodrigues**
+- **Carla Rodrigues**
 Requisitos (descrição textual e classificação) / histórias de usuário: Elencar os requisitos ou as histórias do usuário referentes à solução proposta.
 
-**Bruno Gorga**
+- **Bruno Gorga**
 Planejamento (etapas, tarefas, ciclos de desenvolvimento): Descrever as etapas definidas para o desenvolvimento, tarefas e outros aspectos que envolvam o esclarecimento sobre como serão as fases de execução do projeto. Neste planejamento deve ser criado um repositório no Github (que é o presente repositório) para armazenamento e justificativa da evolução do projeto.
 
-**Gabriel Lira**
+- **Gabriel Lira**
 Arquitetura da solução de software: Apresentar um desenho no qual ilustre as partes que compõem a solução proposta, destacando as interações entre as partes.
 Implementação do webservice e descrição dos serviços disponíveis: Baseado na ilustração proposta, detalhar como será desenvolvida cada parte no que diz respeito a tecnologias que serão utilizadas para o fornecimento da solução.
 
