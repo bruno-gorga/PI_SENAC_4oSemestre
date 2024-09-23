@@ -24,7 +24,7 @@ Planejamento (etapas, tarefas, ciclos de desenvolvimento): Descrever as etapas d
 Arquitetura da solução de software: Apresentar um desenho no qual ilustre as partes que compõem a solução proposta, destacando as interações entre as partes.
 Implementação do webservice e descrição dos serviços disponíveis: Baseado na ilustração proposta, detalhar como será desenvolvida cada parte no que diz respeito a tecnologias que serão utilizadas para o fornecimento da solução.
 
-**Os demais membros se comprometeram a auxiliar de modo geral o andamento do projeto, contribuindo para um ou mais dos módulos acima descritos.**
+**Leonardo Fróes e Tiago Carvalho: Contribuição direta para um ou mais módulos acima descritos, revisão geral dos tópicos, ajustes estruturais e proposição de novas ideias e diretrizes partir do estímulo de debate interno.**
 
 # 2 - Planejamento (etapas de desenvolvimento)
 Para a execução do projeto, foram definidas as seguintes etapas:
