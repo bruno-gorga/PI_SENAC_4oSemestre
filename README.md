@@ -12,6 +12,8 @@ Visão geral da solução proposta: Contextualização e motivação. Apresentar
 - **Thiago Aleixo**
 Ciclo de vida de Desenvolvimento: Apresentar e justificar um ciclo de vida de desenvolvimento, adaptando-o à solução proposta. Validar a interação e a experiência de uso a ser alcançada, descrevendo em linhas gerais o método a ser utilizado.
 
+Os tópicos 3 e 4 descrevem que o desenvolvimento do aplicativo em HTML segue o Modelo Incremental, permitindo a entrega gradual de funcionalidades. Após o planejamento inicial e a criação de protótipos, o design da interface é validado com usuários, seguido pela implementação e testes em incrementos. A cada fase, são realizados testes de usabilidade e compatibilidade com dispositivos móveis. O lançamento é feito gradualmente, com feedback contínuo para ajustes e melhorias. O foco está em oferecer uma interface simples, intuitiva e segura, garantindo uma boa experiência ao usuário.
+
 - **Carla Rodrigues**
 Requisitos (descrição textual e classificação) / histórias de usuário: Elencar os requisitos ou as histórias do usuário referentes à solução proposta.
 
