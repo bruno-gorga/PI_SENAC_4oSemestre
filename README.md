@@ -17,6 +17,8 @@ Os tópicos 3 e 4 descrevem que o desenvolvimento do aplicativo em HTML segue o 
 - **Carla Rodrigues**
 Requisitos (descrição textual e classificação) / histórias de usuário: Elencar os requisitos ou as histórias do usuário referentes à solução proposta.
 
+Aqui usamos para definir personas, suas características e necessidades. Utilizamos dois modelos demostrando a possobilidade de abranger realidades diferentes.
+
 - **Bruno Gorga**
 Planejamento (etapas, tarefas, ciclos de desenvolvimento): Descrever as etapas definidas para o desenvolvimento, tarefas e outros aspectos que envolvam o esclarecimento sobre como serão as fases de execução do projeto. Neste planejamento deve ser criado um repositório no Github (que é o presente repositório) para armazenamento e justificativa da evolução do projeto.
 
