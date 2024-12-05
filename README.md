@@ -71,6 +71,14 @@ Caso o usuário selecione a opção Cadastrar, na tela anterior, será exibida a
 
 ![](https://imgur.com/r8yaFfj.png)
 
-### 6.1.2.1. Exemplo da Tela de Cadastro preenchida
+#### 6.1.2.1. Exemplo da Tela de Cadastro preenchida
+
+Após o usuário preencher os dados e clicar em cadastrar, o aplicativo exibirá a tela inicial novamente.
 
 ![](https://imgur.com/OviaHSL.png)
+
+### 6.1.3. Tela de Login
+
+Caso o usuário selecione a opção "Login", na tela inicial, será exibida a Tela de Login, mostrada abaixo.
+
+![](https://imgur.com/6Bxtiff.png)
