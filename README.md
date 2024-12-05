@@ -38,3 +38,26 @@ Para a execução do projeto, foram definidas as seguintes etapas:
   - Desenvolvimento do projeto no nível de código e ambiente de desenvolvimento mobile.
 
 O presente repositório irá armazenar os logs de desenvolvimento do projeto, conforme sua evolução.
+
+# 3 - Brainstorm de ideias a respeito do escopo do projeto
+
+Nessa fase, os membros do grupo colocaram suas ideias para discussão e chegaram à conclusão de que, como público alvo, o melhor -- o mais abrangente -- seria que o aplicativo fosse útil para profissionais de saúde e pacientes. Anteriormente, foi colocada a ideia de ser orientado aos acompanhantes de cada usuário, porém o grupo chegou à conclusão de que, na prática, o "encaixe" de uma persona acompanhante seria praticamente a mesma da de um usuário comum. Com uma persona profissional de saúde, o grupo acredita que será possível mostrar melhor a utilidade do aplicativo para mais de um contexto.
+
+# 4 - Definição precisa dos requisitos
+
+A maioria dos membros do grupo é iniciante em programação, sendo assim, o grupo optou por manter as funcionalidades no nível básico, garantindo as funcionalidades do CRUD (métodos POST, GET, PUT e DELETE do protocolo HTTP), conforme requisitos de entrega, e as telas de login, cadastro e demais telas de navegação.
+
+# 5 - Histórias de usuário
+
+Para histórias de usuário, considerando o tempo disponível para apresentação, considerou-se apenas a história de usuário do paciente com comorbidade, conforme escopo original, e um profissional de saúde, no caso um médico que utilizaria a aplicação para armazenar dados de pacientes.
+
+# 6 - Criação do protótipo da aplicação
+
+Foi repensada a linguagem que seria utilizada para desenvolver a aplicação, tendo em vista o mencionado anteriormente sobre a pouca experiência da equipe com programação e técnicas de desenvolvimento mais elaboradas, que permitiriam uma aplicação mais dinâmica.
+
+Foi escolhida a linguagem Dart para o front-end, e o framework Nodejs para o back-end. Depois de diversos testes e refatorações, o grupo chegou a um protótipo mais ou menos funcional da interface de usuário da aplicação.
+
+## 6.1. Telas do front-end
+
+### 6.1.1. Tela inicial
+
