@@ -63,10 +63,14 @@ Foi escolhida a linguagem Dart para o front-end, e o framework Nodejs para o bac
 
 Tela que abre a sessão assim que o usuário inicializa o aplicativo. Nessa tela o usuário poderá decidir se deseja fazer o login ou cadastrar uma nova conta.
 
-![](https://imgur.com/a/aKDvdDH) 
+![](https://imgur.com/a/aKDvdDH.png) 
 
 ### 6.1.2. Tela de cadastro
 
 Caso o usuário selecione a opção Cadastrar, na tela anterior, será exibida a tela de cadastro, na qual o usuário irá digitar os dados.
 
-![](https://imgur.com/r8yaFfj)
+![](https://imgur.com/r8yaFfj.png)
+
+### 6.1.2.1. Exemplo da Tela de Cadastro preenchida
+
+![](https://imgur.com/OviaHSL.png)
