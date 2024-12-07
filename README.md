@@ -82,3 +82,61 @@ Após o usuário preencher os dados e clicar em cadastrar, o aplicativo exibirá
 Caso o usuário selecione a opção "Login", na tela inicial, será exibida a Tela de Login, mostrada abaixo.
 
 ![](https://imgur.com/6Bxtiff.png)
+
+#### 6.1.2.1. Exemplo da Tela de Login preenchida
+
+Após o usuário preencher os dados e clicar em cadastrar, o aplicativo exibirá a tela de menu principal.
+
+![](https://imgur.com/iwlUvme.png)
+
+### 6.1.4. Tela de Menu Principal
+
+Nessa tela o usuário pode acessar as principais funcionalidades: Cadastrar Exame, Consultar Exames cadastrados, Atualizar exame e Excluir exame.
+
+![](https://imgur.com/NCPf0Ri.png)
+
+### 6.1.5. Tela de Cadastrar Exame.
+
+Caso clique no botão "Cadastrar Exame", o usuário será levado para essa tela.
+
+![](https://imgur.com/0WXQDHR.png)
+
+#### 6.1.2.1. Exemplo da Tela de Cadastro de Exame preenchida
+
+Ao preencher os dados e clicar em "Adicionar Exame", o exame será adicionado e o usuário poderá consultá-lo na Tela de Consulta de Exames.
+
+![](https://imgur.com/Wm9BNy4.png)
+
+### 6.1.6. Tela de Consulta de Exames
+
+Caso o usuário selecione a opção "Consultar Exames", será levado a essa tela onde ele poderá ver todos os exames cadastrados que possui.
+
+![](https://imgur.com/mbHCAuS.png)
+
+
+### 6.1.7. Tela de Atualizar Exames
+
+O usuário pode clicar na opção Atualizar Exame, e ele poderá selecionar o exame que deseja atualizar.
+
+![](https://imgur.com/aPP2MGC.png)
+
+E, selecionando o exame, poderá alterar os dados.
+
+![](https://imgur.com/h2Ub6sn.png)
+
+
+O novo exame, com os dados alterados, poderá ser visto na tela de consulta.
+
+![](https://imgur.com/OhDKck9.png)
+
+### 6.1.8. Tela de Excluir Exames
+
+Para excluir um exame, o usuário deverá selecionar a opção "Excluir Exames", e em seguida clicar na lixeira ao lado do exame que deseja excluir.
+
+![](https://imgur.com/QYb7iSS.png)
+
+O exame não irá mais aparecer na tela de consulta de exames.
+
+![](https://imgur.com/FyMj90n.png)
+
+
