@@ -139,4 +139,32 @@ O exame não irá mais aparecer na tela de consulta de exames.
 
 ![](https://imgur.com/FyMj90n.png)
 
+# 6.2. Estrutura do backend
+
+Para a  estrutura do backend, foi escolhido um modelo de arquitetura MVC. 
+
+O funcionamento geral do back-end está descrito na imagem abaixo
+
+![](https://imgur.com/BkmSpZe.png) 
+
+Todas as requisições HTTP são enviadas a uma instância do MongoDB atlas. A instância do servidor responde sempre que uma nova requisição POST é enviada, via uma API interna da aplicação.
+
+![](https://imgur.com/2IlHAsG.png)
+
+# 7. Discussão sobre testes e viabilidade do projeto, considerando os requisitos
+
+Como dissemos anteriormente, foi necessário fazer um novo escopo da aplicação devido à pouca experiência do grupo com programação e estrutura de dados. 
+
+Ainda assim, houveram dificuldades na hora de criar as instâncias no MongoDB, atribuir uma URI para conexão, desenvolver o sistema de back-end em Nodejs e conectá-la ao front-end em Flutter.
+
+Foi um projeto desafiador mesmo com uma reabordagem nos requisitos.
+
+# 8. Conclusão
+
+O desenvolvimento do projeto foi uma experiência e desafio bastante interessante para nos mostrar como é feita, de modo geral, uma aplicação da área da saúde a ser utilizada no mercado. 
+
+Esperamos que este repositório mostre que tivemos grandes aprendizados.
+
+
+
 
